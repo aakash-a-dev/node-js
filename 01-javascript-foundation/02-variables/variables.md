@@ -44,7 +44,6 @@ Once we have a variable, we can use it in our program. It's like using the magic
 
 Let's use our **myNumber** variable:
 
-
 // Let's use our variable to print something to the console console.log("My favorite number is: " + myNumber); 
 
 This code will show in the console: "My favorite number is: 5". Cool, right?
@@ -57,7 +56,11 @@ Just like we can put things into our magical box, we can also change what's insi
 
 Now, if we use our variable again, it will show the new value:
 
+
+```javascript
+
 console.log("My new favorite number is: " + myNumber); 
+```
 
 This will print: "My new favorite number is: 10".
 
@@ -66,8 +69,9 @@ This will print: "My new favorite number is: 10".
 When we give a name to our variables, it's like giving a name to our friends. We want names that make sense and are easy to remember. For example, if our variable is about a cat, we might name it **catName**:
 
 
+```javascript
 let catName = "Whiskers"; 
-
+```
 **Summary**
 
 - **Variables are like magical boxes** that store information in our programs.
