@@ -10,6 +10,7 @@ Welcome to the world of JavaScript! This note will walk you through the classic 
 
 // The following line of code prints the string "Hello, World!" to the console
 console.log("Hello, World!");
+````
 
 # Explanation
 
