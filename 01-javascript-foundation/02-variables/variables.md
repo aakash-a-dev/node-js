@@ -44,7 +44,7 @@ Once we have a variable, we can use it in our program. It's like using the magic
 
 Let's use our **myNumber** variable:
 
-// Let's use our variable to print something to the console console.log("My favorite number is: " + myNumber); 
+Let's use our variable to print something to the console console.log("My favorite number is: " + myNumber); 
 
 This code will show in the console: "My favorite number is: 5". Cool, right?
 
@@ -52,7 +52,7 @@ This code will show in the console: "My favorite number is: 5". Cool, right?
 
 Just like we can put things into our magical box, we can also change what's inside.
 
-// Let's change the value of our variable myNumber = 10; 
+Let's change the value of our variable myNumber = 10; 
 
 Now, if we use our variable again, it will show the new value:
 
