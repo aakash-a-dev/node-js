@@ -11,13 +11,13 @@ If you're new to Node.js, follow these steps to get started:
 2. **Clone the Repository**: Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/nodejs-beginner-to-advanced.git
+    git clone https://github.com/your-username/node-js
     ```
 
 3. **Navigate to the Project Directory**: Move into the project directory:
 
     ```bash
-    cd nodejs-beginner-to-advanced
+    cd node-js
     ```
 
 4. **Install Dependencies**: Install project dependencies:
@@ -38,12 +38,5 @@ If you're new to Node.js, follow these steps to get started:
 - **Intermediate**: Dive deeper into Node.js with intermediate-level topics.
 - **Advanced**: Explore advanced Node.js concepts.
 
-## Contributing
-
-Contributions are welcome! If you have improvements, bug fixes, or new samples to add, please follow our [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Happy coding!
