@@ -9,8 +9,8 @@ The `for` loop is like a trusty map guiding your code through a predefined path.
 ### Example:
 
 ```javascript
-for (let i = 0; i < 5; i++) {
-  console.log("Iteration:", i); // This will run 5 times
+for (let i = 0; i < 10; i++) {
+  console.log("Iteration:", i); // This will run 10 times
 }
 ```
 
